@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="try_to_guess">Попробуйте угадать число</string>
+    <string name="input_value">Введите число:</string>
+    <string name="btn_guess">Угадать</string>
+    <string name="exit">Выход</string>
+    <string name="error">Введите число!</string>
+    <string name="ahead">Ваше число больше загаданного</string>
+    <string name="behind">Ваше число меньше загаданного</string>
+    <string name="hit">Поздравляем, вы угадали!</string>
+    <string name="play_more">Хотите сыграть еще раз?</string>
+
+    <string-array name="difficulty_levels">
+        <item>Легкий</item>
+        <item>Средний</item>
+        <item>Сложный</item>
+    </string-array>
+</resources>
